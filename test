@@ -1,0 +1,4 @@
+function setup ()
+{
+  console.log ("Hello fellow coders");
+}
