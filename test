@@ -2,3 +2,8 @@ function setup ()
 {
   console.log ("Hello fellow coders");
 }
+
+function kms()
+{
+  console.log("im under the water. pls help");
+}
